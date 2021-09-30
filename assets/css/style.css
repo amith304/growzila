@@ -6362,7 +6362,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .intro-about .intro-content-text {
   position: relative;
-  z-index: 2;
+  z-index: 3;
 }
 
 .intro-about .intro-content-text h2 {
